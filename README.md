@@ -7,6 +7,7 @@ This project is designed to detect spam emails using machine learning, specifica
 ## Key Features
 
 Algorithm Used: Logistic Regression
+
 Email Classification: Determines whether a given email is spam or ham.
 
 ## How it Works
@@ -36,6 +37,7 @@ This project focuses on assessing wine quality using machine learning, specifica
 ## Key Features
 
 Algorithm Used: Random Forest
+
 Quality Assessment: Determines the quality of wine based on specified input values.
 
 ## How it Works
